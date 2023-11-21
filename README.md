@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DannyNSTY
-- 👀 I’m interested in Front and Back End development, mostly CSS and Javascript although I am starting also with ReactJs.
-- 🌱 I’m currently learning ReactJs 
-- 💞️ I’m looking to collaborate on Front End projects
+- 👀 I’m a Junio Front End Developer, using React.js and learning  
+- 🌱 I’m currently React Native and Express.js
+- 💞️ I’m looking for a job as a React.js Front End Developer.
 - 📫 How to reach me danielmglz@outlook.com
 
 <!---
