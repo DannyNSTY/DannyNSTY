@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DannyNSTY
-- 👀 I’m a Junior Front End Developer, using React.js 
-- 🌱 I’m currently learning React Native and Express.js
+- 👀 I’m a Junior Front End Developer, using React.js & Next14.js
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking for a job as a React.js Front End Developer.
 - 📫 How to reach me danielmglz@outlook.com
 
